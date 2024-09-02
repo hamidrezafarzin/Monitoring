@@ -55,8 +55,8 @@ This repository contains a comprehensive monitoring setup using Prometheus and G
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/monitoring-setup.git
-    cd monitoring-setup
+    git clone https://github.com/your-username/Monitoring.git
+    cd Monitoring
     ```
 
 2. Customize the environment variables:
