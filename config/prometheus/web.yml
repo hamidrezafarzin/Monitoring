@@ -1,0 +1,2 @@
+basic_auth_users:
+    user_name: passowrd_hash
